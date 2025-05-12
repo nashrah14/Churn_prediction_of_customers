@@ -18,6 +18,6 @@ This project uses machine learning to predict customer churn — identifying whe
   - `LabelEncoder`, `StandardScaler`, `train_test_split`
   - `LogisticRegression` model
   - `classification_report` for evaluation
-  - 
+
 ## 📌 Goal
 Build a simple yet effective churn prediction model using logistic regression and interpret key features influencing churn.
