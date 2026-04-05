@@ -1,5 +1,5 @@
 # Churn prediction of customers
-This project uses machine learning to predict customer churn — identifying whether a customer is likely to leave a service. Early prediction helps businesses retain customers and improve decision-making.
+This project uses machine learning to predict customer churn - identifying whether a customer is likely to leave a service. Early prediction helps businesses retain customers and improve decision-making.
 
 ## 🚀 Features
 - Data loading and exploration
